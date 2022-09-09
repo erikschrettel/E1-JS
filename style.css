@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+
+body {
+    background-color: grey;
+    color: white;
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center; 
+    gap: 10px;
+}
+
+h2{
+    padding: 10px;
+    color:blanchedalmond;
+}
+
